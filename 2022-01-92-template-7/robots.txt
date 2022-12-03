@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://nmroth42.github.io/sitemap.xml
-Host: https://nmroth42.github.io
